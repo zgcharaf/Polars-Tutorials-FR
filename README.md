@@ -1,4 +1,6 @@
-Voici une liste de 10 tutoriels en français sur Polars qui couvrirait une gamme étendue de ses fonctionnalités, idéale pour ceux qui souhaitent maîtriser cette bibliothèque :
+# Maîtriser Polars : Tutoriels en Français
+## Par Charaf ZGUIOUAR 
+#### Email : zgcharaf@gmail.com
 
 1. **Introduction à Polars : Pourquoi l'utiliser plutôt que Pandas ?**
    - Présentation de Polars et de ses avantages par rapport à Pandas, notamment en termes de performances et de gestion de la mémoire.
